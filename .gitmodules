@@ -1,0 +1,3 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/o1chatgpt/V0.devAIFamily-tools.git
